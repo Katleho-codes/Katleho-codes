@@ -1,6 +1,5 @@
 - 👋 Hi, I’m **@Katleho-codes**
 - 👀 I’m interested in JavaScript and it's frameworks.
-- 🌱 I’m currently learning React JS and MYSQLi
 - 💞️ I’m looking to collaborate on frontend projects
 - 📫 Reach me on *[email](katlehomabala3@gmail.com)* and *[twitter](https://twitter.com/katleho_janco)*
 
