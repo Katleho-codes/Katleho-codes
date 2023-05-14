@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **twitter-like app**
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Java and later on, C#**
 
-- 🤝 I’m looking for help with **Anything JavaScript**
+- 🤝 I’m looking for help with **Anything Java and C#**
 
-- 💬 Ask me about **React, JavaScript, TypeScript etc**
+- 💬 Ask me about **React, JavaScript, TypeScript and the JS ecosystem**
 
 - 📫 How to reach me **katlehomabala3@gmail.com**
 
