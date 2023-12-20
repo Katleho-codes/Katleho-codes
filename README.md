@@ -5,11 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/katleho_janco" target="blank"><img src="https://img.shields.io/twitter/follow/katleho_janco?logo=twitter&style=for-the-badge" alt="katleho_janco" /></a> </p>
 
-- 🔭 I’m currently working on **twitter-like app**
-
-- 🌱 I’m currently learning **Java and later on, C#**
-
-- 🤝 I’m looking for help with **Anything Java and C#**
+- 🔭 I’m currently working on **blogging app for students**
 
 - 💬 Ask me about **React, JavaScript, TypeScript and the JS ecosystem**
 
