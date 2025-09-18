@@ -15,10 +15,5 @@ I'm a passionate full-stack developer building modern web applications. I love w
 
 <h3 align="left">💻 Tech Stack:</h3>
 <p align="left">
-React • Node.js • Express • MongoDB • PostgreSQL • TypeScript • JavaScript • HTML • CSS • Tailwind • Bootstrap • Django • Firebase • Docker • Git • Next.js • Materialize • Chart.js
-</p>
-
-<h3 align="left">📊 GitHub Stats:</h3>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=katleho-codes&show_icons=true&locale=en&layout=compact" alt="Top languages" />
+React • Node.js • Express • MongoDB • PostgreSQL • TypeScript • JavaScript • HTML • CSS • Tailwind • PHP • Moodle • Firebase • Docker • Git • Next.js
 </p>
