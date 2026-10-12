@@ -4,17 +4,7 @@ Full stack developer in Johannesburg. I build production web apps, REST APIs and
 
 I'm aiming at senior backend and full stack roles in banking, fintech and enterprise software.
 
-[Email](mailto:katlehomabala3@gmail.com) · [LinkedIn](https://www.linkedin.com/in/katleho-mabala) · [Twitter](https://twitter.com/katleho_janco) · [Medium](https://medium.com/@knowsomething9)
-
----
-
-## What I'm working on
-
-**Day job.** Software Developer since May 2025. Custom Moodle plugins, themes and course formats, REST and SOAP integrations, enrolment automation, and Linux server deployment, upgrades and disaster recovery.
-
-**Independent work.** I build practical software for small businesses. Two products are live today.
-
-**Learning.** Java and Spring Boot, to complement C#/.NET and TypeScript on the backend.
+[Email](mailto:katlehomabala3@gmail.com) · [LinkedIn](https://www.linkedin.com/in/katleho-mabala) · [Twitter](https://twitter.com/katleho_janco)
 
 ---
 
